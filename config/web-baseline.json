@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "targetUrl": "http://127.0.0.1:18080/entry",
+  "expectedHtmlMarkers": [
+    "<title>MyScoutee</title>",
+    "<app-root>"
+  ]
+}
